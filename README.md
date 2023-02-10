@@ -59,6 +59,7 @@
 - [AWS SaaS Lab - Deep dive into business & technical strategy](http://awssaaslab.com/)
 
 ## Events
+- [Meet us! TSIA World: INTERACT, May 8-10, 2023 Orlando, FL](https://www.tsia.com/conference)
   
 ## Videos/Media/Streaming
 
@@ -71,6 +72,7 @@
 ## Repositories of Note
 
 ## Blogs
+- [SaaS on AWS Blogs](https://aws.amazon.com/blogs/apn/tag/saas-on-aws)
 
 ## Show off your SaaS Skills
 
