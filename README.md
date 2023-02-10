@@ -75,6 +75,7 @@
 ## Show off your SaaS Skills
 
 ## Connect with SaaS Builders
+Request to join the community! Email: saas-community@amazon.com 
 
 ## License
 
